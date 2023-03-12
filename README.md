@@ -1,14 +1,14 @@
 Data Analysis Project: Data Exploration using SQL
-#Introduction:
+1. Introduction:
 This project is a data analysis project that uses SQL to gain insights and perform data exploration. The project was completed using Microsoft SQL Server Management Studio. The purpose of this project is to showcase my ability to work with large datasets, create optimized SQL queries, and perform complex data analysis.
 
 
-#Technologies Used:
+2. Technologies Used:
 This project was completed using the following technologies:
 Microsoft SQL Server Management Studio
 
 
-#Project Structure:
+3. Project Structure:
 The repository includes the following files and directories:
 dataset/ - This directory contains the dataset used in the project.
 queries/ - This directory contains the SQL queries used to extract, transform, and analyze the data.
@@ -16,7 +16,7 @@ data_exploration/ - This directory contains any scripts or reports generated fro
 README.md - This file.
 
 
-#Getting Started:
+4. Getting Started:
 To run the project, you will need access to Microsoft SQL Server Management Studio or a similar database management tool. To set up the project:
 Clone the repository to your local machine.
 Create a new database in SQL Server Management Studio.
@@ -25,5 +25,5 @@ Open the queries/ directory and execute the queries in the order they are number
 Once the data has been extracted and transformed, execute the analysis scripts located in the data_exploration/ directory.
 
 
-#Conclusion:
+5. Conclusion:
 This project demonstrates my ability to work with large datasets, create optimized SQL queries, and perform complex data analysis. If you have any questions or comments about the project, feel free to contact me at aadisingh964@gmail.com. Thank you for your interest in my work!
